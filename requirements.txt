@@ -1,0 +1,9 @@
+--extra-index-url https://download.pytorch.org/whl/
+accelerate
+bitsandbytes
+datasets
+# nltk
+peft
+torch==2.3.1+cu121
+transformers==4.42.4
+watermark
